@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="160" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611j08sdo51rwgqtfkkynkkp6iiillou6vb4kf86o7h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋 I'm Fazna</h1>
 
 ###
 
@@ -27,15 +31,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">London, UK | 💻 Full Stack Developer & Cloud Enthusiast <br><br>I'm a passionate Full Stack Developer and Cloud Engineer, experienced in building interactive web applications, scalable cloud solutions, and automation pipelines. <br><br>🌟 What I Do:<br><br>🔹 Develop scalable and interactive web apps with React, Angular, and modern front-end tools.<br><br>🔹 Build cloud-based solutions using AWS, Terraform, Docker, and CI/CD pipelines.<br><br>🔹 Create optimized backend services with Java, Node.js, and GraphQL.<br><br>🔹 Automate deployments and infrastructure as code (IaC) with Terraform and Jenkins.</p>
+<p align="left">London, UK | 💻 Full Stack Developer & Cloud Enthusiast <br><br>I'm a passionate Full Stack Developer and Cloud Engineer, experienced in building interactive web applications, scalable cloud solutions, and automation pipelines. <br><br>🌟 What I Do:<br><br>🔹 Develop scalable and interactive web apps with React, Angular, and modern front-end tools.<br><br>🔹 Build cloud-based solutions using AWS, Terraform, Docker, and CI/CD pipelines.<br><br>🔹 Create optimized backend services with Java, Node.js, and GraphQL.<br><br>🔹 Automate deployments and infrastructure as code (IaC) with Terraform and Jenkins.<br><br>📚 Certifications<br>✅ AWS Cloud Practitioner (Mar 2024)<br>✅ Machine Learning & Deep Learning - MATLAB Academy<br>✅ AWS Solutions Architect Associate (In Progress)</p>
 
 ###
 
@@ -91,14 +91,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=doryfazna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doryfazna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doryfazna/doryfazna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doryfazna/doryfazna/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/doryfazna/doryfazna/output/pacman-contribution-graph.svg">
-</picture>
 
