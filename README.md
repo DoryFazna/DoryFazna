@@ -4,6 +4,8 @@
 
 ###
 
+Check out my portfolio : https://fazna-portfolio.carrd.co/ 
+
 <h1 align="center">hey there 👋 I'm Fazna</h1>
 
 ###
