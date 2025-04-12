@@ -4,8 +4,6 @@
 
 ###
 
-Check out my portfolio : https://fazna-portfolio.carrd.co/ 
-
 <h1 align="center">hey there 👋 I'm Fazna</h1>
 
 ###
@@ -13,6 +11,8 @@ Check out my portfolio : https://fazna-portfolio.carrd.co/
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=doryfazna.doryfazna&"  />
 </div>
+
+Check out my portfolio : https://fazna-portfolio.carrd.co/ 
 
 ###
 
