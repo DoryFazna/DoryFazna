@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Fazna</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
