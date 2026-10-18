@@ -12,15 +12,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=doryfazna.doryfazna&"  />
 </div>
 
-Check out my portfolio : https://fazna-portfolio.carrd.co/ 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">London, UK | 💻 Full Stack Developer & Cloud Enthusiast <br><br>I'm a passionate Full Stack Developer and Cloud Engineer, experienced in building interactive web applications, scalable cloud solutions, and automation pipelines. <br><br>🌟 What I Do:<br><br>🔹 Develop scalable and interactive web apps with React, Angular, and modern front-end tools.<br><br>🔹 Build cloud-based solutions using AWS, Terraform, Docker, and CI/CD pipelines.<br><br>🔹 Create optimized backend services with Java, Node.js, and GraphQL.<br><br>🔹 Automate deployments and infrastructure as code (IaC) with Terraform and Jenkins.<br><br>📚 Certifications<br>✅ AWS Cloud Practitioner (Mar 2024)<br>✅ Machine Learning & Deep Learning - MATLAB Academy<br>✅ AWS Solutions Architect Associate (In Progress)</p>
+<p align="left"> 💻 Full Stack Developer & Cloud Enthusiast <br><br>I'm a passionate Full Stack Developer and Cloud Engineer, experienced in building interactive web applications, scalable cloud solutions, and automation pipelines. <br><br>🌟 What I Do:<br><br>🔹 Develop scalable and interactive web apps with React, Angular, and modern front-end tools.<br><br>🔹 Build cloud-based solutions using AWS, Terraform, Docker, and CI/CD pipelines.<br><br>🔹 Create optimized backend services with Java, Node.js, and GraphQL.<br><br>🔹 Automate deployments and infrastructure as code (IaC) with Terraform and Jenkins.<br><br>📚 Certifications<br>✅ AWS Cloud Practitioner (Mar 2024)<br>✅ Machine Learning & Deep Learning - MATLAB Academy<br>✅ AWS Solutions Architect Associate (In Progress)</p>
 
 ###
 
